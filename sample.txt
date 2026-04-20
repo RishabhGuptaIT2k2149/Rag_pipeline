@@ -1,0 +1,114 @@
+Full Stack AI & Modern Technology Engineer Role
+🔹 Overview
+Role: Application Support Engineer / Full Stack AI Engineer
+Experience: 0–2 years
+Core Skill: Python
+Preferred Skills: Generative AI, AI Architecture
+Education: 15 years full-time education
+
+This role focuses on building RAG-based AI systems, agentic workflows, and cloud-native microservices.
+
+🔹 Key Responsibilities
+1. AI / Generative AI Development
+Build Generative AI applications using LangChain and LangGraph
+Design and implement RAG (Retrieval-Augmented Generation) pipelines
+Develop agentic AI workflows using DAG-based orchestration
+Create LLM inference pipelines
+Implement:
+Document ingestion
+Embeddings
+Vector search
+Response generation
+Experiment with emerging protocols like MCP (Model Context Protocol)
+2. Backend & Microservices
+Build scalable services using Python and NestJS
+Develop REST APIs with secure design
+Implement:
+Webhooks
+Async messaging systems
+Create DAG-based workflows and pipelines
+3. Data & AI Infrastructure
+Work with vector databases:
+pgVector
+OpenSearch
+Milvus
+Manage metadata using:
+PostgreSQL
+AWS RDS
+Use distributed processing tools like Apache Spark
+4. Cloud & Platform Engineering
+Deploy applications on AWS / GCP
+Work with:
+Containers (Docker, Kubernetes)
+Managed databases
+AI services (e.g., AWS Bedrock)
+Build scalable AI architectures
+5. Security & Best Practices
+Follow OWASP API Security standards
+Ensure:
+Secure coding
+Data privacy
+Logging & observability
+Error handling
+6. Architecture & Design
+Translate requirements into system design
+Design:
+RAG pipelines
+Agentic workflows (LangGraph DAGs)
+Create architecture diagrams (e.g., draw.io)
+🔹 Required Technical Skills
+AI & GenAI
+LangChain
+LangGraph
+RAG pipelines
+LLM inference
+Agentic workflows
+Programming
+Python
+NestJS (Node.js)
+Databases
+Vector DBs: pgVector / OpenSearch / Milvus
+Relational DBs: PostgreSQL / AWS RDS
+APIs & Integration
+REST APIs
+Webhooks
+Secure API design
+Data Processing
+DAG workflows
+Apache Spark (basic)
+Cloud
+AWS / GCP
+Tools
+Git
+draw.io
+🔹 Desired Skills
+LLM evaluation techniques
+Embeddings & semantic search
+Prompt engineering
+LLM observability
+Multi-agent systems
+MLOps / LLMOps basics
+DevOps concepts
+🔹 Experience Requirements
+
+Hands-on experience in at least one:
+
+RAG-based application
+LLM inference system
+Agentic workflow (LangChain / LangGraph)
+Document ingestion + vector search pipeline
+
+(Projects, internships, or academic work acceptable)
+
+🔹 Soft Skills
+Problem-solving ability
+Fast learner
+Experimental mindset
+Communication & documentation skills
+🔹 Additional Information
+Preferred: Java Full Stack experience (2 years)
+Degree: B.Tech / M.Tech (CS, AI, Data Science)
+Location: Mumbai
+🔹 Keywords (for Retrieval Optimization)
+
+RAG, LangChain, LangGraph, Agentic AI, LLM, Vector Database, pgVector, Milvus, OpenSearch, Embeddings, Semantic Search, Microservices, Python, NestJS, AWS, GCP, Docker, Kubernetes, Apache Spark, OWASP, REST API
